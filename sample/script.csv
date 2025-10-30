@@ -1,0 +1,5 @@
+original_video_path,edited_video_path,semantic_mask_path,source_prompt,target_prompt
+./sample/bear,./sample/bear_autumn,./sample/bear_mask,a brown bear walks on rocks,a brown bear walks on rocks in the autumn
+./sample/bear,./sample/bear_grass,./sample/bear_mask,a brown bear walks on rocks,a brown bear walks on grass
+./sample/bear,./sample/bear_panda,./sample/bear_mask,a brown bear walks on rocks,a brown panda walks on rocks
+./sample/bear,./sample/bear_white,./sample/bear_mask,a brown bear walks on rocks,a white bear walks on rocks
