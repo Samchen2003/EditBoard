@@ -14,6 +14,7 @@
 ~~~bash
 conda create -n EditBoard python==3.9
 conda activate EditBoard
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118 # or other version with CUDA<=12.1
 pip install -r requirements.txt
 ~~~
 
